@@ -6,6 +6,7 @@ MySQLdb
 
 ## Requirements
 Python v*
+
 Auto Increment id
 
 ## Note
